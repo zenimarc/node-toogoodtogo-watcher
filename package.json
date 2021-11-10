@@ -1,10 +1,6 @@
 {
   "name": "toogoodtogo-watcher",
-<<<<<<< HEAD
-  "version": "3.6.0",
-=======
   "version": "3.6.6",
->>>>>>> 0d67841370c3f33b1741fd109159675044c93eb6
   "description": "Node.js cli tool for monitoring your favorite TooGoodToGo businesses.",
   "main": "index.js",
   "keywords": [
@@ -28,27 +24,6 @@
     "toogoodtogo-watcher": "index.js"
   },
   "dependencies": {
-<<<<<<< HEAD
-    "conf": "^7.1.1",
-    "editor": "^1.0.0",
-    "got": "^11.5.1",
-    "lodash": "^4.17.19",
-    "moment": "^2.29.1",
-    "node-notifier": "^8.0.1",
-    "rxjs": "^6.6.2",
-    "telegraf": "^3.38.0",
-    "yargs": "^15.4.1"
-  },
-  "scripts": {
-    "lint": "prettier --write . && eslint --cache --fix ."
-  },
-  "devDependencies": {
-    "eslint": "^7.6.0",
-    "eslint-config-prettier": "^6.11.0",
-    "husky": "^4.2.5",
-    "lint-staged": "^10.2.11",
-    "prettier": "^2.0.5"
-=======
     "conf": "^10.0.3",
     "editor": "^1.0.0",
     "got": "^11.8.2",
@@ -69,7 +44,6 @@
     "husky": "^7.0.4",
     "lint-staged": "^11.2.6",
     "prettier": "^2.4.1"
->>>>>>> 0d67841370c3f33b1741fd109159675044c93eb6
   },
   "husky": {
     "hooks": {
